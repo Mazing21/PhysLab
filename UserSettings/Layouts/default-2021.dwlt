@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 72
+  controlID: 42
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 104
+  controlID: 43
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 105
+  controlID: 44
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,23 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\\u0423\u0447\u0435\u043D\u0438\u043A\\Desktop\\makszadorin_VR1-2_luti32808_duraZXC1000-7_228-8ggwpglhf\\\u0417\u0430\u0434\u043E\u0440\u0438\u043D
-    \u041C\u0430\u043A\u0441\u0438\u043C VR 1-2\\PhysicalLaborotory"
+  m_LastProjectPath: "C:\\Users\\\u0423\u0447\u0435\u043D\u0438\u043A\\Documents\\GitHub\\PhysLab"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4ea80100
-    m_LastClickedID: 108622
-    m_ExpandedIDs: 000000004ea8010056a801007ea8010000ca9a3b
+    m_SelectedIDs: 106e0000
+    m_LastClickedID: 28176
+    m_ExpandedIDs: 00000000826d00000c6e0000627e0000687e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000826d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -489,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c0a80100
-      m_LastClickedID: 108736
-      m_ExpandedIDs: c6f7feff5afafeffdca80100
+      m_SelectedIDs: 286e0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 80dfffffeae9ffff88f0ffffcaf0ffff04f1ffff52f1ffffe0f1ffff54f5ffff32fbffff086600004466000082700000e67d0000ea7d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -773,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.7316618, y: -9.789194, z: -12.399089}
+    m_Target: {x: -3.2970352, y: 3.932931, z: 10.939967}
     speed: 2
-    m_Value: {x: -2.7316618, y: -9.789194, z: -12.399089}
+    m_Value: {x: -3.2970352, y: 3.932931, z: 10.939967}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -822,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09499777, y: -0.8820288, z: 0.41503814, w: -0.2018983}
+    m_Target: {x: 0.04272408, y: 0.14427412, z: 0.0062407693, w: -0.9886231}
     speed: 2
-    m_Value: {x: -0.09315319, y: -0.88386416, z: 0.4126676, w: -0.19952978}
+    m_Value: {x: 0.044114556, y: 0.15759225, z: 0.0070531936, w: -0.9864933}
   m_Size:
     m_Target: 9.55
     speed: 2
-    m_Value: 10
+    m_Value: 9.55
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -846,7 +845,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.28543842, y: -0.04624161, z: 0.013790465, w: -0.95718765}
+  m_LastSceneViewRotation: {x: 0.06877271, y: 0.6291772, z: -0.056010965, w: 0.77221555}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
