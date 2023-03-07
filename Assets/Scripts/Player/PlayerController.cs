@@ -3,15 +3,6 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     public static int situached = 0, ChooseLevel = 1;
-    public GameObject PlayerCamera;
-    private void Update()
-    {
-        Move();   
-    }
-    public void Move()
-    {
-            gameObject.transform.Translate(PlayerCamera.transform.forward * 1f * Time.deltaTime);
-    }
     public void OnTriggerEnter(Collider collision)
     {
         if (collision.gameObject.tag == "Door")
